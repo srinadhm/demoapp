@@ -1,0 +1,128 @@
+c program keywords libraries  
+
+hello wolrd developed main execution important header files keywords compile and execution
+
+
+#include <stdio.h>
+int main() or void main 
+{
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0; no return type 
+}
+Output:Hello World
+
+some of the header files are conio.h stdio.h string.h 
+
+32 out this we mostly use datatypes and conditional statements loops 
+
+keywords 
+
+Bjarne Stroustrup
+
+officially 62 
+
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    cout << "Hello, World!";
+    return 0;
+}
+
+class HelloWolrd
+public static void main(String [] args){
+System.out.println("hello world");
+}
+
+output :Hello World
+
+for every programming language to run or execute instructions what we are giving there will be one initiator(main method or funtion) 
+
+to run every The execution of a C program starts from the main() function.
+
+50 
+
+y java popular means 
+
+
+
+c                                                                c++                                                        java 
+dennis ritchie                                           bjarne strousstrup                                            james gosling 
+#include<stdio.h>                                        #include<iostream>
+void main(){                                                namespace std;
+printf("hello wolrd");                                      void main(){
+  scanf                                                     cout << "hello world";
+}                                                           cin                                                        scanner 
+conio.h stdio.h string.h                                   iostream.h conio.h 
+32                                                           62                                                           50 
+
+
+
+
+we can write or read  the data to file in two ways 
+
+file writer and file reader and fileinputstream 
+
+file writer write content filereader read content one character by character 
+
+
+fileoutputstream will sent data one byte by byte 
+
+xml csv pdf excel properties 
+
+xml <root>
+we can read either by using sax parser or dom parser 
+
+csv comma separeted values 
+
+document itextpdf library 
+
+excel apachepoi 
+
+properties key value pairs 
+
+multithreading 
+
+1.extending thread class 
+2.implements runnable interface 
+
+
+
+hello
+hello
+vamsikrish
+srinadh
+sudarshan
+vamsikrish
+srinadh
+sudarshan
+
+
+hello
+hello
+vamsikrish
+srinadh
+sudarshan
+vamsikrish
+srinadh
+sudarshan
+
+
+hello
+hello
+vamsikrishna
+vamsikrishna
+srinadh
+sudarshan
+srinadh
+sudarshan
+
+
+thread one start executing run method                   thread two start executing run method 
+
+creates new thread                                      creates new thread 
+
+
+
